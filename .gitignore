@@ -2,3 +2,5 @@
 /AutogluonModels
 /data
 /.idea
+/tutorials/AutogluonModels
+*.csv
